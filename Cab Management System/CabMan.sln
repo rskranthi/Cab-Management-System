@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CabMan", "CabMan.csproj", "{AD2EDED3-3C9D-4A17-873E-CFD331C2B1A0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{960FEF54-D7CB-43E9-BE89-C768E1E3D931}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{4FC1C2DB-9F81-44D5-B2C7-EFB371108C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD2EDED3-3C9D-4A17-873E-CFD331C2B1A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2EDED3-3C9D-4A17-873E-CFD331C2B1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2EDED3-3C9D-4A17-873E-CFD331C2B1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2EDED3-3C9D-4A17-873E-CFD331C2B1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{960FEF54-D7CB-43E9-BE89-C768E1E3D931}.Debug|Any CPU.ActiveCfg = Debug
+		{960FEF54-D7CB-43E9-BE89-C768E1E3D931}.Release|Any CPU.ActiveCfg = Release
+		{4FC1C2DB-9F81-44D5-B2C7-EFB371108C0D}.Debug|Any CPU.ActiveCfg = Debug
+		{4FC1C2DB-9F81-44D5-B2C7-EFB371108C0D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
